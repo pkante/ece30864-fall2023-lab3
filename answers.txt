@@ -1,0 +1,1 @@
+a) In a non agile project, the Product Owner would be the equivalent to a product manager. The role and need of a product owner in agile metholodogy is that the product owner must create the vision of the product, prioritize the backlog, and accept the work done by the development team
