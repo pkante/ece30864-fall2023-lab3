@@ -1,2 +1,14 @@
 a) In a non agile project, the Product Owner would be the equivalent to a product manager. The role and need of a product owner in agile metholodogy is that the product owner must create the vision of the product, prioritize the backlog, and accept the work done by the development team
 b) The Scrum Master is responsible for facilitating, leading, and communicating within the team, ensuring that the team follows Agile processes and practices, and removing any obstacles that may impede the team's progress. The Product Owner, on the other hand, is responsible for maximizing the value delivered by the team by managing and prioritizing the product backlog, and acting as the primary customer advocate and link to business and technology strategy
+c) During a sprint cycle, there are three main types of meetings: Sprint Planning Meeting, Daily Scrum Meeting, and Sprint Review Meeting.
+Sprint Planning Meeting:
+    1)The purpose of this meeting is to establish the goals and tasks for the upcoming sprint, as well as to evaluate the team's available bandwidth
+    2)The Product Owner, Scrum Master, and the development team attend this meeting to discuss and prioritize items from the product backlog, and to ensure that everyone understands their assigned tasks
+
+Daily Scrum Meeting:
+    1)This is a daily, short meeting where the development team shares updates on their progress, discusses any obstacles they are facing, and aligns on the day's work
+    2)The Scrum Master facilitates the meeting, and the development team members share their updates, focusing on what they completed since the last meeting, what they plan to work on next, and any blockers they are facing
+
+Sprint Review Meeting:
+    1)Held at the end of each sprint, the purpose of this meeting is to demonstrate the work completed during the sprint and gather feedback from stakeholders
+    2)The Product Owner, Scrum Master, development team, and relevant stakeholders attend this meeting to review the completed work, discuss any changes to the product backlog, and to plan for the next sprint
