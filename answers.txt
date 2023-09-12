@@ -12,3 +12,9 @@ Daily Scrum Meeting:
 Sprint Review Meeting:
     1)Held at the end of each sprint, the purpose of this meeting is to demonstrate the work completed during the sprint and gather feedback from stakeholders
     2)The Product Owner, Scrum Master, development team, and relevant stakeholders attend this meeting to review the completed work, discuss any changes to the product backlog, and to plan for the next sprint
+
+d) 
+Epic: Represents a large body of work that can be broken down into smaller pieces (Stories and Tasks). Epics are typically completed over several sprints or a longer time frame
+Story: Describes a new functionality or feature from the user's perspective. Stories are smaller units of work that contribute to the completion of an Epic
+Bug: Represents a problem or defect in the software that needs to be fixed
+Task: Refers to individual steps or pieces of work that need to be done to complete a Story or Epic. Tasks are usually smaller and more focused than Stories
